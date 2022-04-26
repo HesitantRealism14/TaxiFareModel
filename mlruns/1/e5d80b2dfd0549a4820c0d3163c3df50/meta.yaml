@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rachel/code/HesitantRealism14/TaxiFareModel/mlruns/1/e5d80b2dfd0549a4820c0d3163c3df50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e5d80b2dfd0549a4820c0d3163c3df50
+run_uuid: e5d80b2dfd0549a4820c0d3163c3df50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650950709629
+status: 1
+tags: []
+user_id: unknown
